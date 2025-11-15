@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "spm-ai-predictor",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e33a138a-20aa-458a-9ec1-a499c4d4229e",
+      "database_name": "sportspickmind-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
